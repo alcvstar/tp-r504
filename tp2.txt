@@ -1,0 +1,13 @@
+1 Analyse d’un dépôt
+1- D’après github, il y a 9 contributeurs
+2- Le fichier fait 302,7kb
+3- Permet de trouver qui a modifié chaque ligne d’un fichier et quand.
+4- Jake Ginnivan
+5- 3e5d1596
+6- “This is my first attempt at using both SVG and D3. I hope it is helpful to you.”
+7- 4 oct 2017
+8- 293c63b
+9- Wei Wang 6 jan 2015
+10- Git log --oneline | wc -l
+11- La première acommande affiche les push & commits. La 2e n’affiche que les push.
+12- Git log --format= « short » 
