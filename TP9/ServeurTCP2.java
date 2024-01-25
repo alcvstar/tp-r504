@@ -16,6 +16,7 @@ public class ServeurTCP2 {
                 System.out.println("Message: " + dIn.readUTF());
                 socket.close();
                 socketserver.close();
+            } 
         } catch (Exception e) {
         // TODO: handle exception
         }
