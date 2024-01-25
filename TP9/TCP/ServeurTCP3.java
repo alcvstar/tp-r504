@@ -1,9 +1,9 @@
-package TP9;
+package TP9.TCP;
 
 import java.io.*;
 import java.net.*;
 
-public class ServeurTCP2 {
+public class ServeurTCP3 {
     public static void main(String[] args) {
         try {
         // ServeurTCP1.java

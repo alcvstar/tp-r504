@@ -1,4 +1,4 @@
-package TP9;
+package TP9.UDP;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;

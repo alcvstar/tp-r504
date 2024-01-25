@@ -1,4 +1,4 @@
-package TP9;
+package TP9.TCP;
 
 import java.io.*;
 import java.net.*;
