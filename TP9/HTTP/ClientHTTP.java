@@ -17,10 +17,10 @@ public class ClientHTTP {
             bufOut.write(request, 0, request.length());
             bufOut.flush();
 
-            String line=bufIn.readline();
+            String line=bufIn.readLine();
             while(line!=null){
-                System.out.printIn(line);
-                line=bufIn.readline();
+                System.out.println(line);
+                line=bufIn.readLine();
             }
             bufIn.close();
             bufOut.close();
